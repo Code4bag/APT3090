@@ -37,7 +37,6 @@ CREATE TABLE `users` (
 --
 
 INSERT INTO `users` (`Email`, `Password`) VALUES
-('[value-1]', '[value-2]'),
 ('user1@usiu.ac.ke', '32250170a0dca92d53ec9624f336ca24'),
 ('user3@usiu.ac.ke', 'f91e15dbec69fc40f81f0876e7009648'),
 ('user4@usiu.ac.ke', 'aafdc23870ecbcd3d557b6423a8982134e17927e'),
